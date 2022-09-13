@@ -13,7 +13,9 @@ namespace HelloWorld3
             Console.WriteLine("Hello World!");
             Console.WriteLine("Press enter to continue!");
             Console.WriteLine("");
-            Console.ReadLine();       
+            Console.ReadLine();
+            
+            // adding some notes to test GitHub changes
 
         }
     }
